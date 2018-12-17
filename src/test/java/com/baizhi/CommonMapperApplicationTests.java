@@ -16,6 +16,7 @@ public class CommonMapperApplicationTests {
         System.out.println(111111111);
         System.out.println(222222222);
         System.out.println(33333);
+        System.out.println(44);
     }
 
 }

@@ -10,6 +10,7 @@ public class CommonMapperApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(CommonMapperApplication.class, args);
+        System.out.println(2222222);
     }
 
 }
